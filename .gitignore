@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Env
+.env
+
+# Node
+node_modules/
+build/
+
+# ML artifacts (regenerate with train.py if desired)
+*.pkl
+
+# OS
+.DS_Store
